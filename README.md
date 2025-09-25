@@ -4,6 +4,8 @@
   <em>Full Stack Web Developer | Designer | Content Creator</em>
 </p>
 
+---
+
 <h2>💡 About Me</h2>
 <p>
   I’m a <strong>Full Stack Web Developer</strong> passionate about crafting modern, scalable, and visually stunning applications.  
