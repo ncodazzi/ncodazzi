@@ -32,7 +32,7 @@
 
 <h2>📫 Let’s Connect</h2>
 <p>
-  🌐 <a href="YOUR_PORTFOLIO_LINK" target="_blank">Portfolio (Coming Soon)</a> <br>
-  💼 <a href="[YOUR_LINKEDIN_LINK](https://www.linkedin.com/in/nicholas-codazzi/)" target="_blank">LinkedIn</a> <br>
+  🌐 <a href="#" target="_blank">Portfolio (Coming Soon)</a> <br>
+  💼 <a href="https://www.linkedin.com/in/nicholas-codazzi/" target="_blank">LinkedIn</a> <br>
   📧 <a href="mailto:codazzi.nicholas03@gmail.com">Email</a>
 </p>
