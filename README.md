@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I’m Nicholas Codazzi</h1>
 
 <p align="center">
-  <em>Full Stack Web Developer | Designer | Content Creator</em>
+  Full Stack Web Developer | Designer | Content Creator
 </p>
 
 ---
